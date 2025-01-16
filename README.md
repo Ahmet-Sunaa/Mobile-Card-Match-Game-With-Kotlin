@@ -52,16 +52,6 @@ This project demonstrates essential Android development skills, including UI des
 
 ---
 
-## 🗄 Screenshots
-
-### Main Menu
-> Add a screenshot of the main menu here.
-
-### Gameplay
-> Add a screenshot showing the card-matching gameplay.
-
----
-
 ## 🌟 Key Highlights
 - **Responsive Design**: Works seamlessly on different screen sizes.
 - **Performance Optimization**: Efficient memory and resource management.
@@ -134,16 +124,6 @@ Bu proje, Android geliştime becerilerini, kullanıcı arayüzü tasarımını, 
 - **`app/`**: Uygulamanın ana kaynak kodlarını içerir.  
 - **`res/`**: Tüm kaynaklar (layoutlar, çizimler ve değerler).  
 - **`manifest/`**: Uygulama yapılandırma detayları.  
-
----
-
-## 🗄 Ekran Görüntüleri
-
-### Ana Menü
-> Ana menüyden bir ekran görüntüsü ekleyin.
-
-### Oynanış
-> Kart eşleme oyunundan bir ekran görüntüsü ekleyin.
 
 ---
 
