@@ -72,8 +72,6 @@ This project demonstrates essential Android development skills, including UI des
 
 ---
 
----
-
 # Mobil Kart Eşleme Oyunu (Kotlin)
 
 Android için **Kotlin** kullanılarak tasarlanmış ve geliştirilmiş bir kart eşleme oyunu.  
